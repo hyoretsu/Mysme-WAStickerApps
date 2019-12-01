@@ -1,0 +1,254 @@
+{
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Jaehee",
+      "publisher": "Hyoretsu",
+      "tray_image_file": "Jaehee.png",
+      "stickers": [
+        {
+          "image_file": "Jaehee_Angry.webp"
+        },
+        {
+          "image_file": "Jaehee_Crying.webp"
+        },
+        {
+          "image_file": "Jaehee_Glad.webp"
+        },
+        {
+          "image_file": "Jaehee_Happy.webp"
+        },
+        {
+          "image_file": "Jaehee_Interested.webp"
+        },
+        {
+          "image_file": "Jaehee_Oops.webp"
+        },
+        {
+          "image_file": "Jaehee_PokerFace.webp"
+        },
+        {
+          "image_file": "Jaehee_Question.webp"
+        },
+        {
+          "image_file": "Jaehee_Satisfied.webp"
+        },
+        {
+          "image_file": "Jaehee_SelfAwardness.webp"
+        },
+        {
+          "image_file": "Jaehee_Sulking.webp"
+        },
+        {
+          "image_file": "Jaehee_Wow.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Jumin Han",
+      "publisher": "Hyoretsu",
+      "tray_image_file": "JuminHan.png",
+      "stickers": [
+        {
+          "image_file": "JuminHan_Angry.webp"
+        },
+        {
+          "image_file": "JuminHan_Happy.webp"
+        },
+        {
+          "image_file": "JuminHan_JustFine.webp"
+        },
+        {
+          "image_file": "JuminHan_Sad.webp"
+        },
+        {
+          "image_file": "JuminHan_Well.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Ray",
+      "publisher": "Hyoretsu",
+      "tray_image_file": "Ray.png",
+      "stickers": [
+        {
+          "image_file": "Ray_Angry.webp"
+        },
+        {
+          "image_file": "Ray_Confused.webp"
+        },
+        {
+          "image_file": "Ray_Crying.webp"
+        },
+        {
+          "image_file": "Ray_Happy.webp"
+        },
+        {
+          "image_file": "Ray_Lovely.webp"
+        },
+        {
+          "image_file": "Ray_Party.webp"
+        },
+        {
+          "image_file": "Ray_PokerFace.webp"
+        },
+        {
+          "image_file": "Ray_Well.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Saeran",
+      "publisher": "Hyoretsu",
+      "tray_image_file": "Saeran.png",
+      "stickers": [
+        {
+          "image_file": "Saeran_Angry.webp"
+        },
+        {
+          "image_file": "Saeran_Confused.webp"
+        },
+        {
+          "image_file": "Saeran_Smug.webp"
+        },
+        {
+          "image_file": "Saeran_Yandere.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Seven",
+      "publisher": "Hyoretsu",
+      "tray_image_file": "Seven.png",
+      "stickers": [
+        {
+          "image_file": "Seven_Happy.webp"
+        },
+        {
+          "image_file": "Seven_Interested.webp"
+        },
+        {
+          "image_file": "Seven_JustFine.webp"
+        },
+        {
+          "image_file": "Seven_Loving.webp"
+        },
+        {
+          "image_file": "Seven_Party.webp"
+        },
+        {
+          "image_file": "Seven_Question.webp"
+        },
+        {
+          "image_file": "Seven_Sulking.webp"
+        },
+        {
+          "image_file": "Seven_Surprised.webp"
+        },
+        {
+          "image_file": "Seven_Unhappy.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "V",
+      "publisher": "Hyoretsu",
+      "tray_image_file": "V.png",
+      "stickers": [
+        {
+          "image_file": "V_Disturbed.webp"
+        },
+        {
+          "image_file": "V_Goodbye.webp"
+        },
+        {
+          "image_file": "V_Happy.webp"
+        },
+        {
+          "image_file": "V_Surprised.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Yoosung",
+      "publisher": "Hyoretsu",
+      "tray_image_file": "Yoosung.png",
+      "stickers": [
+        {
+          "image_file": "Yoosung_Angry.webp"
+        },
+        {
+          "image_file": "Yoosung_Crying.webp"
+        },
+        {
+          "image_file": "Yoosung_Happy.webp"
+        },
+        {
+          "image_file": "Yoosung_Party.webp"
+        },
+        {
+          "image_file": "Yoosung_PokerFace.webp"
+        },
+        {
+          "image_file": "Yoosung_Question.webp"
+        },
+        {
+          "image_file": "Yoosung_Satisfied.webp"
+        },
+        {
+          "image_file": "Yoosung_Sulking.webp"
+        },
+        {
+          "image_file": "Yoosung_Surprised.webp"
+        },
+        {
+          "image_file": "Yoosung_Wow.webp"
+        },
+        {
+          "image_file": "Yoosung_WTF.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Zen",
+      "publisher": "Hyoretsu",
+      "tray_image_file": "Zen.png",
+      "stickers": [
+        {
+          "image_file": "Zen_Angry.webp"
+        },
+        {
+          "image_file": "Zen_Depressed.webp"
+        },
+        {
+          "image_file": "Zen_Happy.webp"
+        },
+        {
+          "image_file": "Zen_Lovely.webp"
+        },
+        {
+          "image_file": "Zen_Question.webp"
+        },
+        {
+          "image_file": "Zen_Sad.webp"
+        },
+        {
+          "image_file": "Zen_Shock.webp"
+        },
+        {
+          "image_file": "Zen_Well.webp"
+        },
+        {
+          "image_file": "Zen_Winking.webp"
+        }
+      ]
+    }
+  ]
+}
